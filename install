@@ -1,0 +1,15 @@
+1. create a new conda environment:
+    conda create -n FERNet python=3.6
+    source activate FERNet
+    conda install pytorch=1.3.0 torchvision -c pytorch
+
+2. Install opencv and COCOAPI:
+    pip install opencv-python
+    pip install pycocotools
+
+3. Compile NMS:
+    cd $FERNet_ROOT/
+    ./make.sh
+
+4. Compile DCN:
+    ./compile.sh
