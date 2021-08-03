@@ -1,6 +1,6 @@
 # FERNet
 
-![image](https://github.com/RobotBj/FERNet/tree/main/datasets、ref1.png)
+![image](https://github.com/RobotBj/FERNet/datasets/ref1.png)
 #1. Requirements
 
      matplotlib
