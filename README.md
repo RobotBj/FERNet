@@ -1,8 +1,6 @@
-# FERNet
+# Dual Refinement Underwater Object Detection Network
 
-<p align="center">
-     Dual Refinement Underwater Object Detection Network
-</p>
+By Baojie Fan, Wei Chen1, Yang Cong, and Jiandong Tian
 
 ![image](https://github.com/RobotBj/FERNet/blob/main/datasets/ref2.png)
 
