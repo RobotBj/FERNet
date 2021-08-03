@@ -7,7 +7,7 @@ By Baojie Fan, Wei Chen1, Yang Cong, and Jiandong Tian
 Due to the complex underwater environment, underwater
 imaging often encounters some problems such as blur, scale variation,
 color shift, and texture distortion. Generic detection algorithms can not
-work well when we use them directly in the underwater scene. To ad-
+work well when we use them directly in the underwater scene. To ad
 dress these problems, we propose an underwater detection framework
 with feature enhancement and anchor refinement. 
 
