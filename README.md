@@ -2,6 +2,8 @@
 
 ![image](https://github.com/RobotBj/FERNet/blob/main/datasets/ref2.png)
 
+[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650273.pdf)
+
 #1. Requirements
 
      matplotlib
