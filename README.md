@@ -1,4 +1,7 @@
 # FERNet
+<p align="center">
+     **Dual Refinement Underwater Object Detection Network**
+</p>
 
 ![image](https://github.com/RobotBj/FERNet/blob/main/datasets/ref2.png)
 
