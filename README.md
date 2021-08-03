@@ -34,7 +34,7 @@
  
  #**3. Test**
  
-      python test FER.py --size $img_size$ --dataset $VOC$ 
+      python test FER.py --size $img_size$ --dataset $DatasetType$ 
       
  ![image](https://github.com/RobotBj/FERNet/blob/main/datasets/ref1.png)
       
