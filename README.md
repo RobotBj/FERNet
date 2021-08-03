@@ -38,4 +38,5 @@
  
      python train FERNet.py --lr 0.002 --batch_szie 32 --max_epoch 160 --dataset URPC --size 512
      
-# Cite
+# Citation
+If you use this toolbox or benchmark in your research, please cite this project.
