@@ -32,6 +32,8 @@
  
       python test FER.py --size $img_size$ --dataset $VOC$ 
       
+ ![image](https://github.com/RobotBj/FERNet/blob/main/datasets/ref1.png)
+      
  #4. train
  
      python train FERNet.py --lr 0.002 --batch_szie 32 --max_epoch 160 --dataset URPC --size 512
