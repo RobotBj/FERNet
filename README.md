@@ -1,6 +1,6 @@
 # Dual Refinement Underwater Object Detection Network
 
-By Baojie Fan, Wei Chen1, Yang Cong, and Jiandong Tian
+By Baojie Fan, Wei Chen, Yang Cong, and Jiandong Tian
 
 # Introduction
 
