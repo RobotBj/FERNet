@@ -7,6 +7,7 @@
    pillow
    torchvision
    numpy
+   pycocotools
    
 2. Install
    sh complie.sh
