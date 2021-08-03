@@ -5,7 +5,7 @@
    
      opencv-python
    
-     torch
+     torch==1.3.1
    
      cython
    
