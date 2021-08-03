@@ -1,6 +1,6 @@
 # FERNet
 
-![image](https://github.com/FishInWater-1999/GithubUseTest/blob/master/bac_3.jpg)
+![image](https://github.com/RobotBj/FERNet/tree/main/datasets、ref1.png)
 #1. Requirements
 
      matplotlib
