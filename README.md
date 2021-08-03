@@ -41,11 +41,11 @@
 # Citation
 If you use this toolbox or benchmark in your research, please cite this project.
 
-@inproceedings{fan2020dual,
-  title={Dual refinement underwater object detection network},
-  author={Fan, Baojie and Chen, Wei and Cong, Yang and Tian, Jiandong},
-  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XX 16},
-  pages={275--291},
-  year={2020},
-  organization={Springer}
-}
+     @inproceedings{fan2020dual,
+       title={Dual refinement underwater object detection network},
+       author={Fan, Baojie and Chen, Wei and Cong, Yang and Tian, Jiandong},
+       booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XX 16},
+       pages={275--291},
+       year={2020},
+       organization={Springer}
+       }
