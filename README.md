@@ -41,7 +41,7 @@ with feature enhancement and anchor refinement.
  
  #**3. Test**
  
-      python test FER.py --size $img_size$ --dataset $DatasetType$ 
+      python test FER.py --size $img_size$ --dataset $DatasetType$ --trained_model $model_path$
       
  ![image](https://github.com/RobotBj/FERNet/blob/main/datasets/ref1.png)
       
